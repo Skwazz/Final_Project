@@ -45,6 +45,7 @@ const Discover = () => {
         ))}
       </div>
     </div>
+
   );
 };
 
