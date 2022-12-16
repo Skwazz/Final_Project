@@ -4,11 +4,11 @@
 
 /* Active Navigation Link */
 .active {
-  @apply text-cyan-500;
+  @apply text-green-500;
 }
 
 .active svg {
-  @apply text-cyan-500;
+  @apply text-green-500;
 }
 
 .bar:nth-child(2) {
@@ -52,7 +52,7 @@
   z-index: 20;
 }
 .icon-style{
-  background-color: #551B54;
+  background-color: #0c4218;
   border: 2px solid #fff;
   border-radius: 50%;
   height: 50px;
@@ -64,8 +64,8 @@
 }
 .icon-style:hover{
   animation: none;
-  background: #fff;
-  color: #551B54;
+  background: rgb(7, 116, 38);
+  color: #0f5421;
   border: 2px solid #551B54;
 }
 @keyframes movebtn {
